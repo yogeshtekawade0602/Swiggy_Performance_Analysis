@@ -36,7 +36,9 @@ Order Success Rate: Displays successful vs. canceled orders.
 ## Usage
 
 1️⃣ Open the Power BI file (.pbix) in Power BI Desktop.
+
 2️⃣ Connect to your data source if required.
+
 3️⃣ Interact with the dashboard to analyze sales and customer trends.
 
 ## Key Insights

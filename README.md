@@ -55,7 +55,6 @@ Order Success Rate: Displays successful vs. canceled orders.
 
 ## Recommendations
 
-Recommendations
 ✅ Boost Revenue & Sales
 
 Promote top-selling dishes (Chole Bhature, Dosa) with combos & discounts.

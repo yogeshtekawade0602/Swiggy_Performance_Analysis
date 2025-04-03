@@ -21,7 +21,7 @@ Cancellation Rate: 9.86%
 
 ## Features
 
-Revenue by Restaurant: Displays earnings from top-performing restaurants like Biryani House, Pav Bhaji Hub, and Chaat Bazaar.
+- Revenue by Restaurant: Displays earnings from top-performing restaurants like Biryani House, Pav Bhaji Hub, and Chaat Bazaar.
 
 Orders by Day: Analyzes total orders distribution across weekdays and weekends.
 

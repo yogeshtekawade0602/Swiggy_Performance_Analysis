@@ -1,6 +1,6 @@
 # Swiggy_Performance_Analysis
 
-<img src="Images/swiggy logo.png" width="2000" height="500"/>&nbsp;
+<img src="Images/Swiggy.webp" width="2000" height="500"/>&nbsp;
 
 ## Overview
 

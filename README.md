@@ -1,6 +1,6 @@
 # Swiggy_Performance_Analysis
 
-<img src="images/mountain-bike.jpg" width="2000" height="500"/>&nbsp;
+<img src="Images/swiggy logo.png" width="2000" height="500"/>&nbsp;
 
 ## Overview
 

@@ -11,27 +11,27 @@ This Power BI dashboard provides comprehensive insights into the sales performan
 
 ## Key Metrics
 
-Revenue: ₹367B
+- Revenue: ₹367B
 
-Total Orders: 15K
+- Total Orders: 15K
 
-Successful Orders: 90.14% (13.52K)
+- Successful Orders: 90.14% (13.52K)
 
-Cancellation Rate: 9.86%
+- Cancellation Rate: 9.86%
 
 ## Features
 
 - Revenue by Restaurant: Displays earnings from top-performing restaurants like Biryani House, Pav Bhaji Hub, and Chaat Bazaar.
 
-Orders by Day: Analyzes total orders distribution across weekdays and weekends.
+- Orders by Day: Analyzes total orders distribution across weekdays and weekends.
 
-Top Customers: Lists highest order contributors and their total orders.
+- Top Customers: Lists highest order contributors and their total orders.
 
-Most Ordered Dishes: Highlights demand for top dishes like Chole Bhature, Dosa, and Pav Bhaji.
+- Most Ordered Dishes: Highlights demand for top dishes like Chole Bhature, Dosa, and Pav Bhaji.
 
-Revenue Trend: Tracks monthly revenue fluctuations.
+- Revenue Trend: Tracks monthly revenue fluctuations.
 
-Order Success Rate: Displays successful vs. canceled orders.
+- Order Success Rate: Displays successful vs. canceled orders.
 
 ## Usage
 
@@ -57,33 +57,27 @@ Order Success Rate: Displays successful vs. canceled orders.
 
 ✅ Boost Revenue & Sales
 
-Promote top-selling dishes (Chole Bhature, Dosa) with combos & discounts.
+- Promote top-selling dishes (Chole Bhature, Dosa) with combos & discounts.
 
-Expand top-performing restaurants (Biryani House, Pav Bhaji Hub) via cloud kitchens.
+- Expand top-performing restaurants (Biryani House, Pav Bhaji Hub) via cloud kitchens.
 
 ✅ Reduce Order Cancellations
 
-Improve real-time tracking & stock updates to prevent cancellations.
+- Improve real-time tracking & stock updates to prevent cancellations.
 
-Offer compensation (discounts/coupons) for affected customers.
+- Offer compensation (discounts/coupons) for affected customers.
 
 ✅ Enhance Customer Engagement
 
-Reward top customers with exclusive perks & cashback.
+- Reward top customers with exclusive perks & cashback.
 
-Encourage ratings & reviews through loyalty points.
+- Encourage ratings & reviews through loyalty points.
 
 ✅ Optimize Marketing Strategies
 
-Run geo-targeted ads in low-order cities.
+- Run geo-targeted ads in low-order cities.
 
-Introduce happy-hour & weekend deals for peak-hour sales.
+- Introduce happy-hour & weekend deals for peak-hour sales.
 
-Future Enhancements
-Add drill-through features for deeper analysis.
-
-Implement customer segmentation for personalized marketing.
-
-Improve visual aesthetics for a better dashboard experience.
 ## Dashboard :
 <img src="Images/Swiggy Analysis Dashboard.jpg" width="2500" height="600"/>&nbsp;

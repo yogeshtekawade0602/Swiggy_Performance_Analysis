@@ -7,7 +7,7 @@
 This Power BI dashboard provides comprehensive insights into the sales performance of Swiggy. It visualizes data related to revenue, orders, cancellations, and customer trends, enabling data-driven decisions. The dashboard includes interactive visuals and filters for an enhanced user experience.
 
 ## Tool used :
-<img src="images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp;
+<img src="Images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp;
 
 ## Key Metrics
 
@@ -85,4 +85,4 @@ Implement customer segmentation for personalized marketing.
 
 Improve visual aesthetics for a better dashboard experience.
 ## Dashboard :
-<img src="images/Dashboard.PNG" width="2500" height="600"/>&nbsp;
+<img src="Images/Swiggy Analysis Dashboard.jpg" width="2500" height="600"/>&nbsp;

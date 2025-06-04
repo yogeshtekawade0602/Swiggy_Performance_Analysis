@@ -80,4 +80,4 @@ This Power BI dashboard provides comprehensive insights into the sales performan
 - Introduce happy-hour & weekend deals for peak-hour sales.
 
 ## Dashboard :
-<img src="" width="2500" height="600"/>&nbsp;
+<img src="Images/Swiggy Analysis Dashboard.jpg" width="2500" height="600"/>&nbsp;

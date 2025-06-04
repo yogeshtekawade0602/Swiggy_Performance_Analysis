@@ -11,7 +11,7 @@ This Power BI dashboard provides comprehensive insights into the sales performan
 
 ## Key Metrics
 
-- Revenue: ₹367B
+- Revenue: ₹24M
 
 - Total Orders: 15K
 
@@ -43,7 +43,7 @@ This Power BI dashboard provides comprehensive insights into the sales performan
 
 ## Key Insights
 
-✅ Revenue Performance – Total revenue stands at ₹367B, with a stable monthly trend.
+✅ Revenue Performance – Total revenue stands at ₹24M, with a stable monthly trend.
 
 ✅ Order Trends – 15K total orders, with a 90.14% success rate and a 9.86% cancellation rate.
 
